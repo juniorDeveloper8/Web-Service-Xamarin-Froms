@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Clase_Practica.View.LoginView"
+             Title="Welcome To System ☠️"
+             >
+    <ContentPage.Content>
+        <StackLayout>
+
+            <Image Source="logo.png"/>
+            
+            <Label Text="Login" HorizontalOptions="Center" VerticalOptions="Center"/>
+            <Entry Placeholder="User" x:Name="txtUser" />
+            <Entry Placeholder="Clave" x:Name="txtClave" />
+            <Button Text="Ingresar" x:Name="btnLogin" Clicked="btnLogin_Clicked" />
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Clase_Practica.View.AddClinicaPage"
+             Title="Agregar Clínica">
+    <ContentPage.Content>
+        <StackLayout Margin="20">
+            <Label Text="Nombre de la clínica:" />
+            <Entry x:Name="ClinicaNombreEntry" Margin="0,0,0,10" Text="{Binding ClinicaNombre}" />
+
+            <Label Text="Dirección:" />
+            <Entry x:Name="DireccionEntry" Margin="0,0,0,10" Text="{Binding Direccion}" />
+
+            <Label Text="RUC:" />
+            <Entry x:Name="RucEntry" Margin="0,0,0,10" Text="{Binding Ruc}" />
+
+            <Button Text="Insertar clínica"
+                Clicked="OnInsertClinicaButtonClicked" Margin="0,20,0,0"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

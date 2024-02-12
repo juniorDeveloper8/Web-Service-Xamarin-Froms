@@ -1,0 +1,32 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Clase_Practica.Home"
+             Title="Bienvenido Usuario👻">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Opciones" Priority="0" Order="Primary" Clicked="OnToolbarItemClicked"/>
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.Content>
+        <StackLayout>
+            <!-- ListView para mostrar las clínicas existentes -->
+            <ListView x:Name="ClinicasListView"
+                      ItemsSource="{Binding Clinicas}"
+                      SelectedItem="{Binding SelectedClinica}"
+                      HasUnevenRows="True"
+                      Margin="10">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Padding="10">
+                                <Label Text="{Binding ClinicaNombre}" FontSize="Medium"/>
+                                <Label Text="{Binding Direccion}" FontSize="Small"/>
+                                <Label Text="{Binding Ruc}" FontSize="Small"/>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
