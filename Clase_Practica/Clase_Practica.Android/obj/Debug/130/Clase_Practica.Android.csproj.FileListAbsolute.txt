@@ -639,11 +639,6 @@ C:\Users\rober\Escritorio\projects\dotnet\Clase_Practica\Clase_Practica\Clase_Pr
 C:\Users\rober\Escritorio\projects\dotnet\Clase_Practica\Clase_Practica\Clase_Practica.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\bin\Debug\Clase_Practica.Android.dll
 C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\bin\Debug\Clase_Practica.Android.pdb
-C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\bin\Debug\com.companyname.clase_practica.apk
-C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\bin\Debug\com.companyname.clase_practica.aab
-C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\bin\Debug\com.companyname.clase_practica-Signed.aab
-C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\bin\Debug\com.companyname.clase_practica-Signed.apk
-C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\bin\Debug\com.companyname.clase_practica-Signed.apk.idsig
 C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\bin\Debug\Clase_Practica.dll
 C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\bin\Debug\Clase_Practica.pdb
 C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\obj\Debug\130\MonoAndroid,Version=v13.0.AssemblyAttributes.cs
@@ -683,10 +678,7 @@ C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Prac
 C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\obj\Debug\130\Clase_Practica.Android.csproj.CopyComplete
 C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\obj\Debug\130\Clase_Practica.Android.dll
 C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\obj\Debug\130\Clase_Practica.Android.pdb
-C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\obj\Debug\130\android\bin\com.companyname.clase_practica.apk
 C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\obj\Debug\130\android\bin\base.zip
-C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\obj\Debug\130\android\bin\com.companyname.clase_practica.aab
-C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\obj\Debug\130\android\bin\com.companyname.clase_practica.apks
 C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\obj\Debug\130\res\values\styles.xml
 C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\obj\Debug\130\res\values\colors.xml
 C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\obj\Debug\130\res\mipmap-anydpi-v26\icon.xml
@@ -1277,3 +1269,12 @@ C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Prac
 C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
 C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\bin\Debug\com.companyname.Web_Service.apk
+C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\bin\Debug\com.companyname.Web_Service.aab
+C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\bin\Debug\com.companyname.Web_Service-Signed.aab
+C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\bin\Debug\com.companyname.Web_Service-Signed.apk
+C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\bin\Debug\com.companyname.Web_Service-Signed.apk.idsig
+C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\obj\Debug\130\android\bin\com.companyname.Web_Service.apk
+C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\obj\Debug\130\android\bin\com.companyname.Web_Service.aab
+C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\obj\Debug\130\android\bin\com.companyname.Web_Service.apks
+C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica.Android\obj\Debug\130\android\src\com\companyname\web_service\R.java

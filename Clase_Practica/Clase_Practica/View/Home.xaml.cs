@@ -82,7 +82,7 @@ namespace Clase_Practica
                     }
                     break;
                 case "Salir":
-                    await Navigation.PushAsync(new LoginView());
+                    await Navigation.PopToRootAsync();
                     break;
             }
         }

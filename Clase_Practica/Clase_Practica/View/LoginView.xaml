@@ -11,7 +11,7 @@
             
             <Label Text="Login" HorizontalOptions="Center" VerticalOptions="Center"/>
             <Entry Placeholder="User" x:Name="txtUser" />
-            <Entry Placeholder="Clave" x:Name="txtClave" />
+            <Entry Placeholder="Clave" x:Name="txtClave" IsPassword="True" />
             <Button Text="Ingresar" x:Name="btnLogin" Clicked="btnLogin_Clicked" />
 
 

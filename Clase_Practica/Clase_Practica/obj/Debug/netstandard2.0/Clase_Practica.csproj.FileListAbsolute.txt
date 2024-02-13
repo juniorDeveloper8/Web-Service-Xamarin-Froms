@@ -34,3 +34,4 @@ C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Prac
 C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica\obj\Debug\netstandard2.0\Clase_Practica.dll
 C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica\obj\Debug\netstandard2.0\refint\Clase_Practica.dll
 C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica\obj\Debug\netstandard2.0\Clase_Practica.pdb
+C:\Users\rober\Escritorio\semaestre\programacion movil\Clase_Practica\Clase_Practica\Clase_Practica\obj\Debug\netstandard2.0\Clase_Practica.sourcelink.json
