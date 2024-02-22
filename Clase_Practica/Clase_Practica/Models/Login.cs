@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Clase_Practica.Models
+﻿namespace Clase_Practica.Models
 {
     public class Login
     {

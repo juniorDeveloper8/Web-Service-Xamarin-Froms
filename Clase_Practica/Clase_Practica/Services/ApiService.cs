@@ -16,7 +16,8 @@ namespace Clase_Practica.Services
 
         public static class Constants
         {
-            public const string ClinicasUrl = "http://192.168.1.6/api/Clinicas";
+            //public const string ClinicasUrl = "http://192.168.181.16/api/Clinicas";
+            public const string ClinicasUrl = "http://192.168.1.7/api/Clinicas";
         }
         public ApiService()
         {

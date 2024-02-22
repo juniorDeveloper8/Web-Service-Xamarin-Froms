@@ -1,16 +1,7 @@
-﻿using Clase_Practica.Models;
-using Newtonsoft.Json;
+﻿using Clase_Practica.Services;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net.Http;
-using System.Net;
-using System.Text;
-using System.Threading.Tasks;
-
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using Clase_Practica.Services;
 
 namespace Clase_Practica.View
 {
